@@ -144,7 +144,7 @@ header nav ul li:last-child a img{
 }
 main{
     width: 100%;
-    background-image: url("/images/banner-bg.jpg");
+    background-image: url("../images/banner-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 380px;
